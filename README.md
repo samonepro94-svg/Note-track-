@@ -59,7 +59,7 @@ Une vidéo de démonstration présente le fonctionnement et les principales fonc
 
 La dernière version de NoteTrack est disponible dans la section Releases de ce dépôt.
 
-Télécharger l'APK : [Note Track APK](release)
+Télécharger l'APK : [Note Track APK](Releases/v1.0.0)
 
 ## Auteur
 
