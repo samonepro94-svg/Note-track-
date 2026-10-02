@@ -1,0 +1,25 @@
+Fichiers temporaires
+
+*.tmp
+*.temp
+*.log
+
+Sauvegardes
+
+*.bak
+*.backup
+
+Fichiers système Windows
+
+Thumbs.db
+Desktop.ini
+
+Fichiers système macOS
+
+.DS_Store
+
+Fichiers temporaires d'éditeurs
+
+*.swp
+*.swo
+*~
