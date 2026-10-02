@@ -22,7 +22,7 @@ L'application permet également de calculer automatiquement la moyenne.
 
 ## Captures d'écran
 
-![Écran principale](Screenshots/écranprincipal.jpg)
+![Écran principale](Screenshots/écran-principal.jpg)
 
 Elle présente la seule interface et fonctionnalités de Note Track 
 
