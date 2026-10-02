@@ -53,7 +53,7 @@ Elle présente la seule interface et fonctionnalités de Note Track
 
 Une vidéo de démonstration présente le fonctionnement et les principales fonctionnalités de NoteTrack.
 
-[Voir la vidéo de démonstration](https://youtube.com/shorts/hjEDMVqlg6k?si=0TXdTVRRoOLu4uoX)
+[Voir la vidéo de démonstration](https://youtube.com/shorts/8rYxjKR4lBE?si=dU5hz1LuPCT4ObbX)
 
 ## Téléchargement
 
